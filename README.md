@@ -6,12 +6,12 @@
 - Octávio Patrocínio Martins  
 - Yuri Soinaktvitz Stockler  
 
+# Descrição
+- "The Legend of Zip" conta a história de um aprendiz de magia que fica encarregado de salvar o Cyber-Reino de terríveis bugs e vírus que estão corrompendo o mundo. Seu trabalho é banir e corrigir as corrupções com as magias que você aprenderá no caminho.  
+
 Projeto Final de  Laboratorio de Algoritmos e Estruturas de Dados 2 - Jogo: The Legend of Zip  
 Desenvolvido no Curso de Ciência da Computação da PUC Minas Poços de Caldas (MG).  
 Linguagem utilizada: C, C++.  
-
-# Descrição
-- "The Legend of Zip" conta a história de um aprendiz de magia que fica encarregado de salvar o Cyber-Reino de terríveis bugs e vírus que estão corrompendo o mundo. Seu trabalho é banir e corrigir as corrupções com as magias que você aprenderá no caminho.  
 
 # Requisitos (Em produção)
 - Uso da biblioteca gráfica Raylib.h
