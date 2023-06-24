@@ -26,4 +26,4 @@ Linguagem utilizada: C, C++.
 - Trilha sonora (Octávio)
 - Save state com arquivo (Yuri)
 - Cálculos de dano/HP/mana (Mateus)
-- Inventário com Lista CDE (Octávio)
+- Inventário com Lista LDE (Octávio)
