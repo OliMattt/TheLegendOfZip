@@ -27,3 +27,10 @@ Linguagem utilizada: C.
 - Save state com arquivo (Yuri)
 - Cálculos de dano/HP/mana (Mateus)
 - Inventário com Lista LDE (Octávio)
+
+# Referências/Consultas
+
+ - [StackOverflow](https://stackoverflow.com/questions/66566761/how-to-make-a-simple-menu-with-c-and-raylib)https://stackoverflow.com/questions/66566761/how-to-make-a-simple-menu-with-c-and-raylib
+ - https://www.raylib.com/cheatsheet/cheatsheet.html
+ - https://chat.openai.com/
+   
