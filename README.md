@@ -36,5 +36,6 @@ Linguagem utilizada: C.
  - https://www.youtube.com/watch?v=uJicu_3wysU - Tutorial com um "Tile Map", sobre como implementar os tiles individualmente e usar no codigo, sendo adaptado para o proposito do nosso projeto
  - https://www.raylib.com/examples.html - Lista de exemplos de codigos com raylib (core, shapes, textures, text, models, shaders e audio) com exemplos funcionais e demonstrações de codigos
  - Slides e exemplos de codigos utilizados em sala de aula na materia de Algoritmos e Estrutura de Dados 2 com o professor Rafael D'addio
+ - C++ Fundamentals Game Programming For Beginners - Curso ensinando sobre a implementação de codigo em C e C++ de programação para jogos com a utilização da biblioteca Raylib
    
    
