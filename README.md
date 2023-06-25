@@ -31,6 +31,7 @@ Linguagem utilizada: C.
 # Referências/Consultas
 
  - [StackOverflow](https://stackoverflow.com/questions/66566761/how-to-make-a-simple-menu-with-c-and-raylib)https://stackoverflow.com/questions/66566761/how-to-make-a-simple-menu-with-c-and-raylib
+ - https://www.raylib.com/examples.html
  - https://www.raylib.com/cheatsheet/cheatsheet.html
  - https://chat.openai.com/
    
