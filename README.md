@@ -30,8 +30,11 @@ Linguagem utilizada: C.
 
 # Referências/Consultas
 
- - [StackOverflow](https://stackoverflow.com/questions/66566761/how-to-make-a-simple-menu-with-c-and-raylib)https://stackoverflow.com/questions/66566761/how-to-make-a-simple-menu-with-c-and-raylib
- - https://www.raylib.com/examples.html
- - https://www.raylib.com/cheatsheet/cheatsheet.html
- - https://chat.openai.com/
+ - [StackOverflow](https://stackoverflow.com/questions/66566761/how-to-make-a-simple-menu-with-c-and-raylib)https://stackoverflow.com/questions/66566761/how-to-make-a-simple-menu-with-c-and-raylib - exemplos e dicas de implementações para serem adaptadas dentro do proprosito do nosso projeto
+ - https://www.raylib.com/cheatsheet/cheatsheet.html - Diretorio com comandos e explicações de como funciona a implementação em Raylib
+ - https://chat.openai.com/ - Auxilio para correções e sugestoes de implementações, assim como auxilio para compilação do codigo
+ - https://www.youtube.com/watch?v=uJicu_3wysU - Tutorial com um "Tile Map", sobre como implementar os tiles individualmente e usar no codigo, sendo adaptado para o proposito do nosso projeto
+ - https://www.raylib.com/examples.html - Lista de exemplos de codigos com raylib (core, shapes, textures, text, models, shaders e audio) com exemplos funcionais e demonstrações de codigos
+ - Slides e exemplos de codigos utilizados em sala de aula na materia de Algoritmos e Estrutura de Dados 2 com o professor Rafael D'addio
+   
    
