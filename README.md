@@ -11,7 +11,7 @@
 
 Projeto Final de  Laboratorio de Algoritmos e Estruturas de Dados 2 - Jogo: The Legend of Zip  
 Desenvolvido no Curso de Ciência da Computação da PUC Minas Poços de Caldas (MG).  
-Linguagem utilizada: C, C++.  
+Linguagem utilizada: C.  
 
 # Requisitos (Em produção)
 - Uso da biblioteca gráfica Raylib.h
